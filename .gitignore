@@ -1,0 +1,15 @@
+node_modules/
+out/
+dist/
+/coverage/
+/package
+/package/
+.vs/
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# VS Code test infra
+.vscode-test/
+.vscode-test-web/
